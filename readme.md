@@ -49,4 +49,3 @@ A **Streamlit**-based web application that allows users to log, view and manage 
 ## 🌟 Acknowledgments
 
 - Built with [Streamlit](https://streamlit.io/).
-```
