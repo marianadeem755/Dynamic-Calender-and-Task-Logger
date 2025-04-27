@@ -2,7 +2,6 @@
 
 A **Streamlit**-based web application that allows users to log, view and manage tasks dynamically using an interactive calendar interface. This app is designed to help users stay organized by categorizing tasks, setting priorities and tracking due dates and times and then Download Files on which they include their tasks on daily, monthly and yearly basis.
 
----
 
 ## 🚀 Features
 
@@ -14,7 +13,6 @@ A **Streamlit**-based web application that allows users to log, view and manage 
 - **Task Export**: Download tasks as CSV files for a specific day, month, or year.
 - **Responsive Sidebar**: Navigate between logging tasks, viewing tasks and downloading task data.
 
----
 
 ## 🛠️ Installation
 1. Install the required dependencies:
@@ -26,7 +24,6 @@ A **Streamlit**-based web application that allows users to log, view and manage 
    ```bash
    streamlit run app.py
    ```
----
 
 ## 📋 How to Use
 
@@ -44,7 +41,7 @@ A **Streamlit**-based web application that allows users to log, view and manage 
    - Navigate to the "Download Task Data" section.
    - Download tasks for a specific day, month or year in CSV format.
 
----
+
 
 ## 🌟 Acknowledgments
 
